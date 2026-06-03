@@ -17,7 +17,7 @@ Here are the two main community-driven ecosystems I maintain on this account:
 * **Who it's for:** Anyone looking to legally migrate to safer countries. It tracks hard financial data, minimum visa income thresholds (like Iceland's 1M ISK rule), student pathways, prescription portability, and local QOL metrics.
 * **👉 [View the Relocation Site](https://ignoblia.github.io/transit)**
 
-### 🧪 [transdiy](./transdiy)
+### 🧪 [TransDIY](./transdiy)
 * **What it is:** My original resource hub dedicated to independent transition support.
 * **Who it's for:** Focused heavily on harm reduction, homebrew medical tracking, and global peer-to-peer resource sharing for those who cannot access formal systems.
 * **👉 [View the DIY Site](https://ignoblia.github.io/transdiy)**
