@@ -1,4 +1,4 @@
-# Hi there, I'm Ignoblia 👋
+# Hi there, I'm Kelechi 👋
 
 I am a **Black trans woman currently living in Iceland** 🇮🇸. 
 
