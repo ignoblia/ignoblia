@@ -6,8 +6,6 @@ Moving across borders as a trans person is incredibly daunting. When I was navig
 
 I use this GitHub space to build tools, maintain open-source resources, and turn abstract legal rights into structured, realistic survival data for the trans community.
 
----
-
 ## 🌐 My Projects & Resource Hubs
 
 Here are the two main community-driven ecosystems I maintain on this account:
@@ -21,8 +19,6 @@ Here are the two main community-driven ecosystems I maintain on this account:
 * **What it is:** My original resource hub dedicated to independent transition support.
 * **Who it's for:** Focused heavily on harm reduction, homebrew medical tracking, and global peer-to-peer resource sharing for those who cannot access formal systems.
 * **👉 [View the DIY Site](https://ignoblia.github.io/transdiy)**
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
